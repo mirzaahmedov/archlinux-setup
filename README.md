@@ -15,6 +15,8 @@
 ```
 # My archlinux setup
 
+![Archlinux](./archlinux.jpg)
+
 - Window Manager - Hyprland
 - Display Server - Wayland
 - Terminal - Alacritty
